@@ -38,3 +38,16 @@ npm start
 5. Opne the browser and navigate to localhost:3000
 
 You'll see below startup page.
+
+Desktop:
+![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/Desktop%20Screenshot.PNG)
+
+Tablet:
+![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/tablet%20screenshot.png)
+
+Mobile:
+![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/mobile%20Screenshot%201.png)
+
+![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/mobile%20screenshot%202.png)
+
+Lighthouse Score:
