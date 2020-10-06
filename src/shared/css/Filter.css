@@ -1,0 +1,20 @@
+.FilterSection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.FilterHeading {
+    text-align: left;
+    margin-left: 10px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+}
+
+.container {
+    background-color: white;
+    height: fit-content;
+}
+
+.container {
+    grid-area: filter;
+}
