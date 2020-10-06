@@ -7,14 +7,16 @@ Server Side rendering means rendering your React components on the Server and se
 
 On the browser, when the javascript runs, react will realize that the component is already there and take over for front-end interactivity, skipping the initial render.
 
-# Outline
+# Technology
 - Creation of node server using Express which will render the content for initial request
+
+- Creation of React components using latest React features such as react hooks, react routers etc. 
 
 - Data Fetching on the Server using isomorphic-fetch package
 
 - Data Fetching with Routing (Server-side & Client-side)
 
-- Use of Webpack and Babel Scripts for Build Workflow.
+- Use of Webpack and Babel Scripts for Build Workflow to create final executable build.
 
 # Build & Run Instructions
 
