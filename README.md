@@ -18,6 +18,8 @@ On the browser, when the javascript runs, react will realize that the component 
 
 - Use of Webpack and Babel Scripts for Build Workflow to create final executable build.
 
+- Use of Media Queries to create fully responsive UI for Mobile, Tablet and Desktop views.
+
 # Build & Run Instructions
 
 1. This repository contains both the original source code of the project
