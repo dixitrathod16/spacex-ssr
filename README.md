@@ -52,4 +52,5 @@ You'll see below startup page.
 ![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/mobile%20Screenshot%201.png)
 ![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/mobile%20screenshot%202.png)
 
-Lighthouse Score:
+# Lighthouse Score:
+![image](https://github.com/dixitrathod16/spacex-ssr/blob/main/screenshots/Lighthouse%20Score.PNG)
