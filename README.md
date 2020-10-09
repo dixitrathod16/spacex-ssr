@@ -35,7 +35,7 @@ npm install
 ```
 npm start
 ```
-5. Opne the browser and navigate to localhost:3000
+5. Opne the browser and navigate to localhost:5001
 
 You'll see below startup page.
 
