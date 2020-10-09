@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack && nodemon server.js",
+    "build": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dixit R Jain",
