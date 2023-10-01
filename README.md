@@ -3,7 +3,7 @@ SpaceX Launch Programs - Project to demonstrate Server Side Rendering using Reac
 
 This is a sample front end react project which is Server Side Rendered. 
 
-Server Side rendering means rendering your React components on the Server and sending HTML pages pre-populated ro the client - This can lead to a better user experience and Search Engine discoverability.
+Server Side rendering means rendering your React components on the Server and sending HTML pages pre-populated to the client - This can lead to a better user experience and Search Engine discoverability.
 
 On the browser, when the javascript runs, react will realize that the component is already there and take over for front-end interactivity, skipping the initial render.
 
